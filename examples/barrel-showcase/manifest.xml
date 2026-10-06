@@ -1,0 +1,6 @@
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+  <iq:application id="c71cc87473d64d648c11786b30582733" type="watch-app" name="@Strings.AppName" entry="ShowcaseApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.2.0">
+    <iq:products><iq:product id="venu3"/><iq:product id="fenix7"/></iq:products>
+    <iq:permissions/><iq:languages/><iq:barrels><iq:depends name="ConnectIQComponents" version="0.1.0"/></iq:barrels>
+  </iq:application>
+</iq:manifest>

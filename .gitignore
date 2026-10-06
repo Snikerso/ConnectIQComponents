@@ -1,0 +1,9 @@
+bin/
+dist/
+*.prg
+*.prg.debug.xml
+*.barrel
+*.der
+*.pem
+developer_key
+.DS_Store
