@@ -1,4 +1,4 @@
 project.manifest = manifest.xml
 base.sourcePath = ../showcase/source
 base.resourcePath = ../showcase/resources
-base.barrelPath = ../../dist/ConnectIQComponents-0.1.0.barrel
+base.barrelPath = ../../dist/ConnectIQComponents-0.2.0.barrel

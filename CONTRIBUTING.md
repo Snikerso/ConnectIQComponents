@@ -18,5 +18,5 @@ GitHub repository named ConnectIQComponents, then run:
 ```sh
 git remote add origin https://github.com/Snikerso/ConnectIQComponents.git
 git push -u origin main
-git push origin v0.1.0
+git push origin v0.2.0
 ```

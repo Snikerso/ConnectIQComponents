@@ -19,6 +19,8 @@ module ConnectIQComponents {
         function initialize(overrides) {
             values = merge({:background=>0x101820, :surface=>0x243340,
                 :foreground=>0xFFFFFF, :accent=>0x38BDF8, :muted=>0x94A3B8,
+                :border=>0x475569, :borderWidth=>1, :track=>0x243340,
+                :ringWidth=>3, :tickLength=>6,
                 :radius=>12, :padding=>8, :font=>Graphics.FONT_SMALL}, overrides);
         }
     }
