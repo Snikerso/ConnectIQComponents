@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "profile": "connectiqcomponents",
+  "scope": "project",
+  "source": "https://github.com/Snikerso/codex-skills.git",
+  "target": ".codex/skills",
+  "skills": [],
+  "globalProfile": "global"
+}
